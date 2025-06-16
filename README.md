@@ -3,10 +3,7 @@
 A responsive web application for managing and purchasing vehicle spare parts online.  
 This project is built with **Java** for the backend and uses **Bootstrap** for a modern, mobile-friendly frontend.
 
----
-![image](https://github.com/user-attachments/assets/3305ad95-ee72-4ad2-a76a-292868b1862a)
-
-
+![image](https://github.com/user-attachments/assets/bb04220c-4425-4a54-bdff-1234fbfa66c4)
 
 
 ## Features
